@@ -1,0 +1,43 @@
+* {
+
+  font-family: "Merriweather", serif;
+}
+
+body {
+  text-align: center;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 25%;
+  border: 10px solid black;
+  margin: 2rem;
+}
+.btn-Container {
+  background-color: lightcyan;
+  margin-left: 25%;
+  display: flex;
+  justify-content: center;
+  border: 5px solid black;
+  border-radius: 15%;
+  width: 50%;
+}
+.blue {
+  background-color: #1ecbe1;
+}
+.purple {
+  background-color: #961ee1;
+}
+.red {
+  background-color: #e1341e;
+}
+.green {
+  background-color: #6ae11e;
+}
+.flash {
+  background-color: white;
+}
+.userFlash {
+  background-color: green;
+}
+
