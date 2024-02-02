@@ -13,6 +13,12 @@ body {
   border: 10px solid black;
   margin: 2rem;
 }
+.one-contain .btn:hover{
+  cursor:pointer;
+}
+.two-contain .btn:hover{
+  cursor:pointer;
+}
 .btn-Container {
   background-color: lightcyan;
   margin-left: 25%;
